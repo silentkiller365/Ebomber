@@ -5,15 +5,10 @@ Powerful Mass Email Sender Using SMTP
 Download Python 3.10 And Clone the Ripo
 
 ## Commands
+  cd Ebomber
 
-'''
-bash
-cd Ebomber
-'''
-'''
-bash
-python ebomb.py
-'''
+  python ebomb.py
+
 ## Important Notice
 
 Send Only 5 Emails At Once When Using Free SMTP⚠️
